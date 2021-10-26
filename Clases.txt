@@ -1,7 +1,0 @@
-ContGeneral
-	-Cuenta.java (Cuentas)
-	-listasCuentas.java 
-	
-Otros
-	-TModeloCatalogo.java (Optiene los datos de la cuenta)
-	-conexionBD.java (Establece la conexion con la base de datos)
